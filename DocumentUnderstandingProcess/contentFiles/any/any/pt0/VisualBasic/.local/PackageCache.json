@@ -3,300 +3,262 @@
     {
       "Package": {
         "Id": "UiPath.DocumentUnderstanding.ML.Activities",
-        "Version": "1.8.0-preview"
+        "Version": "1.12.0-preview"
       },
       "Assemblies": [
-        "C:\\nuget\\bitmiracle.docotic.pdf/7.5.11645\\lib/net46/BitMiracle.Docotic.Pdf.dll",
-        "C:\\nuget\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\nuget\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\nuget\\polly/7.1.0\\lib/netstandard2.0/Polly.dll",
-        "C:\\nuget\\system.collections.immutable/1.5.0\\lib/netstandard2.0/System.Collections.Immutable.dll",
-        "C:\\nuget\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
-        "C:\\nuget\\uipath.documentprocessing.contracts/1.10.2-preview\\lib/net461/UiPath.DocumentProcessing.Contracts.dll",
-        "C:\\nuget\\uipath.documentunderstanding.ml.activities/1.8.0-preview\\lib/net461/UiPath.DocumentUnderstanding.ML.Activities.Design.dll",
-        "C:\\nuget\\uipath.documentunderstanding.ml.activities/1.8.0-preview\\lib/net461/UiPath.DocumentUnderstanding.ML.Activities.dll",
-        "C:\\nuget\\uipath.documentunderstanding.ml.activities/1.8.0-preview\\lib/net461/UiPath.DocumentUnderstanding.ML.Telemetry.dll",
-        "C:\\nuget\\uipath.documentunderstanding.ml.activities/1.8.0-preview\\lib/net461/UiPath.DocumentUnderstanding.ML.Trainer.dll",
-        "C:\\nuget\\uipath.documentunderstanding.ml.activities/1.8.0-preview\\lib/net461/UiPath.DocumentUnderstanding.ML.dll",
-        "C:\\nuget\\uipath.telemetry.client/1.3.18\\lib/net461/TelemetryClient.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\bitmiracle.docotic.pdf/7.5.11645\\lib/net46/BitMiracle.Docotic.Pdf.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\bitmiracle.libtiff.net/2.4.649\\lib/net40/BitMiracle.LibTiff.NET.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\ntextcat/0.3.65\\lib/netstandard2.0/NTextCat.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\polly/7.1.0\\lib/netstandard2.0/Polly.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.buffers/4.5.1\\lib/net461/System.Buffers.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.collections.immutable/5.0.0\\lib/net461/System.Collections.Immutable.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.drawing.common/5.0.2\\lib/net461/System.Drawing.Common.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.drawing.primitives/4.3.0\\lib/net45/System.Drawing.Primitives.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.memory/4.5.4\\lib/net461/System.Memory.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.numerics.vectors/4.5.0\\lib/net46/System.Numerics.Vectors.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.runtime.compilerservices.unsafe/4.7.1\\lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentprocessing.contracts/1.13.0-preview\\lib/net461/UiPath.DocumentProcessing.Contracts.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentunderstanding.digitizer/1.3.0-preview\\lib/net461/UiPath.DocumentProcessing.Contracts.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentunderstanding.digitizer/1.3.0-preview\\lib/net461/UiPath.DocumentUnderstanding.Digitizer.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.12.0-preview\\lib/net461/UiPath.DocumentUnderstanding.ML.Activities.Design.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.12.0-preview\\lib/net461/UiPath.DocumentUnderstanding.ML.Activities.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.12.0-preview\\lib/net461/UiPath.DocumentUnderstanding.ML.Telemetry.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.12.0-preview\\lib/net461/UiPath.DocumentUnderstanding.ML.Trainer.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.12.0-preview\\lib/net461/UiPath.DocumentUnderstanding.ML.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.telemetry.client/1.5.3\\lib/net461/TelemetryClient.dll"
       ],
-      "Path": "C:\\nuget\\uipath.documentunderstanding.ml.activities\\1.8.0-preview"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.12.0-preview"
     },
     {
       "Package": {
         "Id": "UiPath.Excel.Activities",
-        "Version": "2.10.4"
+        "Version": "2.11.4"
       },
       "Assemblies": [
-        "C:\\nuget\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
-        "C:\\nuget\\csvhelper/16.0.0\\lib/net45/CsvHelper.dll",
-        "C:\\nuget\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
-        "C:\\nuget\\microsoft.visualstudio.ole.interop/16.7.30328.74\\lib/net45/Microsoft.VisualStudio.OLE.Interop.dll",
-        "C:\\nuget\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
-        "C:\\nuget\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
-        "C:\\nuget\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
-        "C:\\nuget\\npoi/2.4.1\\lib/net45/NPOI.dll",
-        "C:\\nuget\\sharpziplib/1.2.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
-        "C:\\nuget\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\nuget\\uipath.excel.activities/2.10.4\\lib/net461/UiPath.Excel.Activities.Design.dll",
-        "C:\\nuget\\uipath.excel.activities/2.10.4\\lib/net461/UiPath.Excel.Activities.Package.dll",
-        "C:\\nuget\\uipath.excel.activities/2.10.4\\lib/net461/UiPath.Excel.Activities.dll",
-        "C:\\nuget\\uipath.excel.activities/2.10.4\\lib/net461/UiPath.Excel.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\csvhelper/16.0.0\\lib/net45/CsvHelper.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.visualstudio.ole.interop/16.7.30328.74\\lib/net45/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\sharpziplib/1.2.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities/2.11.4\\lib/net461/Microsoft.Office.Interop.Excel.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities/2.11.4\\lib/net461/Microsoft.Vbe.Interop.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities/2.11.4\\lib/net461/Office.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities/2.11.4\\lib/net461/UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities/2.11.4\\lib/net461/UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities/2.11.4\\lib/net461/UiPath.Excel.Activities.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities/2.11.4\\lib/net461/UiPath.Excel.dll"
       ],
-      "Path": "C:\\nuget\\uipath.excel.activities\\2.10.4"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities\\2.11.4"
     },
     {
       "Package": {
         "Id": "UiPath.IntelligentOCR.Activities",
-        "Version": "4.17.0-preview"
+        "Version": "5.4.1-preview"
       },
       "Assemblies": [
-        "C:\\nuget\\aforge/2.2.5\\lib/AForge.dll",
-        "C:\\nuget\\aforge.genetic/2.2.5\\lib/AForge.Genetic.dll",
-        "C:\\nuget\\aforge.imaging/2.2.5\\lib/AForge.Imaging.dll",
-        "C:\\nuget\\aforge.math/2.2.5\\lib/AForge.Math.dll",
-        "C:\\nuget\\aforge.neuro/2.2.5\\lib/AForge.Neuro.dll",
-        "C:\\nuget\\bitmiracle.docotic.pdf/7.5.11645\\lib/net46/BitMiracle.Docotic.Pdf.dll",
-        "C:\\nuget\\fsharp.core/4.7.1\\lib/net45/FSharp.Core.dll",
-        "C:\\nuget\\ivanakcheurov.ntextcat.lib/0.2.1.1\\lib/net40/IvanAkcheurov.Commons.dll",
-        "C:\\nuget\\ivanakcheurov.ntextcat.lib/0.2.1.1\\lib/net40/IvanAkcheurov.NClassify.dll",
-        "C:\\nuget\\ivanakcheurov.ntextcat.lib/0.2.1.1\\lib/net40/IvanAkcheurov.NTextCat.Lib.dll",
-        "C:\\nuget\\mathnet.numerics/4.5.1\\lib/net461/MathNet.Numerics.dll",
-        "C:\\nuget\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\nuget\\microsoft.xaml.behaviors.wpf/1.0.1\\lib/net45/Microsoft.Xaml.Behaviors.dll",
-        "C:\\nuget\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\nuget\\polly/7.1.0\\lib/netstandard2.0/Polly.dll",
-        "C:\\nuget\\system.collections.immutable/1.5.0\\lib/netstandard2.0/System.Collections.Immutable.dll",
-        "C:\\nuget\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
-        "C:\\nuget\\system.io.compression/4.3.0\\runtimes/win/lib/net46/System.IO.Compression.dll",
-        "C:\\nuget\\system.runtime.compilerservices.unsafe/4.7.1\\lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
-        "C:\\nuget\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
-        "C:\\nuget\\system.threading.tasks.extensions/4.5.4\\lib/net461/System.Threading.Tasks.Extensions.dll",
-        "C:\\nuget\\tinycsvparser/2.5.2\\lib/net45/TinyCsvParser.dll",
-        "C:\\nuget\\uipath.cefsharpbundle/1.5.0-preview\\lib/net452/CefSharp.BrowserSubprocess.Core.dll",
-        "C:\\nuget\\uipath.cefsharpbundle/1.5.0-preview\\lib/net452/CefSharp.Core.Runtime.dll",
-        "C:\\nuget\\uipath.cefsharpbundle/1.5.0-preview\\lib/net452/CefSharp.Core.dll",
-        "C:\\nuget\\uipath.cefsharpbundle/1.5.0-preview\\lib/net452/CefSharp.Wpf.dll",
-        "C:\\nuget\\uipath.cefsharpbundle/1.5.0-preview\\lib/net452/CefSharp.dll",
-        "C:\\nuget\\uipath.cefsharpbundle/1.5.0-preview\\lib/net452/UiPath.CefSharpBundle.dll",
-        "C:\\nuget\\uipath.cefsharpbundle/1.5.0-preview\\lib/net452/chrome_elf.dll",
-        "C:\\nuget\\uipath.cefsharpbundle/1.5.0-preview\\lib/net452/d3dcompiler_47.dll",
-        "C:\\nuget\\uipath.cefsharpbundle/1.5.0-preview\\lib/net452/libEGL.dll",
-        "C:\\nuget\\uipath.cefsharpbundle/1.5.0-preview\\lib/net452/libGLESv2.dll",
-        "C:\\nuget\\uipath.cefsharpbundle/1.5.0-preview\\lib/net452/libcef.dll",
-        "C:\\nuget\\uipath.cefsharpbundle/1.5.0-preview\\lib/net452/msvcp140.dll",
-        "C:\\nuget\\uipath.cefsharpbundle/1.5.0-preview\\lib/net452/swiftshader/libEGL.dll",
-        "C:\\nuget\\uipath.cefsharpbundle/1.5.0-preview\\lib/net452/swiftshader/libGLESv2.dll",
-        "C:\\nuget\\uipath.cefsharpbundle/1.5.0-preview\\lib/net452/vcruntime140.dll",
-        "C:\\nuget\\uipath.documentprocessing.contracts/1.10.2-preview\\lib/net461/UiPath.DocumentProcessing.Contracts.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.DocumentUnderstanding.Contracts.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.DocumentUnderstanding.Persistence.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.IntelligentOCR.Activities.Design.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.IntelligentOCR.Activities.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.IntelligentOCR.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.ClassificationStation.Host.Local.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.ClassificationStation.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.Data.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.Digitization.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.DocumentClassification.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.Host.Local.Infrastructure.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.ImageProcessing.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.Language.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.Localization.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.OCR.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.OutOfProcessUi.Common.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.PDF.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.PositionBasedExtraction.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.TableProcessing.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.TaxonomyManager.Host.Local.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.TaxonomyManager.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.Telemetry.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.Utils.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.ValidationStation.Host.Local.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.ValidationStation.Integration.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.ValidationStation.ValueParsing.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.ValidationStation.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities/4.17.0-preview\\lib/net461/UiPath.SmartData.WPF.dll",
-        "C:\\nuget\\uipath.ocr.contracts/2.9.0-preview\\lib/net461/UiPath.OCR.Contracts.dll",
-        "C:\\nuget\\uipath.telemetry.client/1.3.18\\lib/net461/TelemetryClient.dll",
-        "C:\\nuget\\uipath.wordstonumbers/1.0.0\\lib/netstandard2.0/Numsense.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\bitmiracle.docotic.pdf/7.5.11645\\lib/net46/BitMiracle.Docotic.Pdf.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\bitmiracle.libtiff.net/2.4.649\\lib/net40/BitMiracle.LibTiff.NET.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\fsharp.core/4.7.1\\lib/net45/FSharp.Core.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.xaml.behaviors.wpf/1.1.3\\lib/net45/Microsoft.Xaml.Behaviors.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\ntextcat/0.3.65\\lib/netstandard2.0/NTextCat.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\polly/7.1.0\\lib/netstandard2.0/Polly.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.buffers/4.5.1\\lib/net461/System.Buffers.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.collections.immutable/5.0.0\\lib/net461/System.Collections.Immutable.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.drawing.common/5.0.2\\lib/net461/System.Drawing.Common.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.drawing.primitives/4.3.0\\lib/net45/System.Drawing.Primitives.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.io.compression/4.3.0\\runtimes/win/lib/net46/System.IO.Compression.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.memory/4.5.4\\lib/net461/System.Memory.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.net.http/4.3.4\\runtimes/win/lib/net46/System.Net.Http.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.numerics.vectors/4.5.0\\lib/net46/System.Numerics.Vectors.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.runtime.compilerservices.unsafe/4.7.1\\lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation/4.3.0\\runtimes/win/lib/net45/System.Runtime.InteropServices.RuntimeInformation.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.security.cryptography.algorithms/4.3.0\\runtimes/win/lib/net461/System.Security.Cryptography.Algorithms.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.security.cryptography.encoding/4.3.0\\runtimes/win/lib/net46/System.Security.Cryptography.Encoding.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.security.cryptography.primitives/4.3.0\\lib/net46/System.Security.Cryptography.Primitives.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.security.cryptography.x509certificates/4.3.0\\runtimes/win/lib/net461/System.Security.Cryptography.X509Certificates.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\tinycsvparser/2.5.2\\lib/net45/TinyCsvParser.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle/1.7.0-preview\\lib/net452/CefSharp.BrowserSubprocess.Core.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle/1.7.0-preview\\lib/net452/CefSharp.Core.Runtime.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle/1.7.0-preview\\lib/net452/CefSharp.Core.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle/1.7.0-preview\\lib/net452/CefSharp.Wpf.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle/1.7.0-preview\\lib/net452/CefSharp.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle/1.7.0-preview\\lib/net452/UiPath.CefSharpBundle.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle/1.7.0-preview\\lib/net452/chrome_elf.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle/1.7.0-preview\\lib/net452/d3dcompiler_47.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle/1.7.0-preview\\lib/net452/libEGL.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle/1.7.0-preview\\lib/net452/libGLESv2.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle/1.7.0-preview\\lib/net452/libcef.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle/1.7.0-preview\\lib/net452/msvcp140.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle/1.7.0-preview\\lib/net452/swiftshader/libEGL.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle/1.7.0-preview\\lib/net452/swiftshader/libGLESv2.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle/1.7.0-preview\\lib/net452/vcruntime140.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentprocessing.contracts/1.13.0-preview\\lib/net461/UiPath.DocumentProcessing.Contracts.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentunderstanding.digitizer/1.3.0-preview\\lib/net461/UiPath.DocumentProcessing.Contracts.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentunderstanding.digitizer/1.3.0-preview\\lib/net461/UiPath.DocumentUnderstanding.Digitizer.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle/1.0.0-preview\\lib/net461/Emgu.CV.Bitmap.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle/1.0.0-preview\\lib/net461/Emgu.CV.Platform.NetStandard.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle/1.0.0-preview\\lib/net461/concrt140.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle/1.0.0-preview\\lib/net461/cvextern.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle/1.0.0-preview\\lib/net461/msvcp140.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle/1.0.0-preview\\lib/net461/msvcp140_1.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle/1.0.0-preview\\lib/net461/msvcp140_2.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle/1.0.0-preview\\lib/net461/msvcp140_atomic_wait.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle/1.0.0-preview\\lib/net461/msvcp140_codecvt_ids.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle/1.0.0-preview\\lib/net461/vcruntime140.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.DocumentUnderstanding.Contracts.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.DocumentUnderstanding.Persistence.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.IntelligentOCR.Activities.Design.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.IntelligentOCR.Activities.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.IntelligentOCR.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.ClassificationStation.Host.Local.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.ClassificationStation.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.Data.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.Digitization.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.DocumentClassification.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.Host.Local.Infrastructure.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.ImageProcessing.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.Language.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.Localization.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.OCR.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.OutOfProcessUi.Common.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.PDF.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.PositionBasedExtraction.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.TableProcessing.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.TaxonomyManager.Host.Local.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.TaxonomyManager.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.Telemetry.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.Utils.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.ValidationStation.Host.Local.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.ValidationStation.Integration.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.ValidationStation.ValueParsing.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.ValidationStation.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities/5.4.1-preview\\lib/net461/UiPath.SmartData.WPF.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.ocr.contracts/2.10.0-preview\\lib/net461/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.telemetry.client/1.5.3\\lib/net461/TelemetryClient.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.wordstonumbers/1.0.0\\lib/netstandard2.0/Numsense.dll"
       ],
-      "Path": "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.PDF.Activities",
-        "Version": "3.4.0"
-      },
-      "Assemblies": [
-        "C:\\nuget\\bitmiracle.docotic.pdf/7.5.11645\\lib/net46/BitMiracle.Docotic.Pdf.dll",
-        "C:\\nuget\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\nuget\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
-        "C:\\nuget\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\nuget\\uipath.ocr.contracts/2.9.0-preview\\lib/net461/UiPath.OCR.Contracts.dll",
-        "C:\\nuget\\uipath.pdf.activities/3.4.0\\lib/net461/UiPath.PDF.Activities.Design.dll",
-        "C:\\nuget\\uipath.pdf.activities/3.4.0\\lib/net461/UiPath.PDF.Activities.dll",
-        "C:\\nuget\\uipath.pdf.activities/3.4.0\\lib/net461/UiPath.PDF.Telemetry.dll",
-        "C:\\nuget\\uipath.pdf.activities/3.4.0\\lib/net461/UiPath.PDF.dll",
-        "C:\\nuget\\uipath.telemetry.client/1.3.18\\lib/net461/TelemetryClient.dll"
-      ],
-      "Path": "C:\\nuget\\uipath.pdf.activities\\3.4.0"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview"
     },
     {
       "Package": {
         "Id": "UiPath.System.Activities",
-        "Version": "21.4.1"
+        "Version": "21.10.4"
       },
       "Assemblies": [
-        "C:\\nuget\\csvhelper/16.0.0\\lib/net45/CsvHelper.dll",
-        "C:\\nuget\\microsoft.aspnet.signalr.client/2.4.0\\lib/net45/Microsoft.AspNet.SignalR.Client.dll",
-        "C:\\nuget\\microsoft.aspnetcore.connections.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Connections.Abstractions.dll",
-        "C:\\nuget\\microsoft.aspnetcore.http.connections.client/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Connections.Client.dll",
-        "C:\\nuget\\microsoft.aspnetcore.http.connections.common/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Connections.Common.dll",
-        "C:\\nuget\\microsoft.aspnetcore.http.features/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll",
-        "C:\\nuget\\microsoft.aspnetcore.signalr.client/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Client.dll",
-        "C:\\nuget\\microsoft.aspnetcore.signalr.client.core/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Client.Core.dll",
-        "C:\\nuget\\microsoft.aspnetcore.signalr.common/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Common.dll",
-        "C:\\nuget\\microsoft.aspnetcore.signalr.protocols.json/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
-        "C:\\nuget\\microsoft.bcl.asyncinterfaces/1.1.1\\lib/net461/Microsoft.Bcl.AsyncInterfaces.dll",
-        "C:\\nuget\\microsoft.extensions.configuration/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
-        "C:\\nuget\\microsoft.extensions.configuration.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
-        "C:\\nuget\\microsoft.extensions.configuration.binder/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
-        "C:\\nuget\\microsoft.extensions.dependencyinjection/3.1.6\\lib/net461/Microsoft.Extensions.DependencyInjection.dll",
-        "C:\\nuget\\microsoft.extensions.dependencyinjection.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "C:\\nuget\\microsoft.extensions.logging/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Logging.dll",
-        "C:\\nuget\\microsoft.extensions.logging.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
-        "C:\\nuget\\microsoft.extensions.options/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Options.dll",
-        "C:\\nuget\\microsoft.extensions.primitives/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
-        "C:\\nuget\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\nuget\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\nuget\\sharpziplib/1.2.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
-        "C:\\nuget\\system.buffers/4.5.1\\lib/net461/System.Buffers.dll",
-        "C:\\nuget\\system.componentmodel.annotations/4.7.0\\lib/net461/System.ComponentModel.Annotations.dll",
-        "C:\\nuget\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
-        "C:\\nuget\\system.io.pipelines/4.7.1\\lib/netstandard2.0/System.IO.Pipelines.dll",
-        "C:\\nuget\\system.management.automation/6.1.7601.17515\\lib/net45/System.Management.Automation.dll",
-        "C:\\nuget\\system.memory/4.5.4\\lib/net461/System.Memory.dll",
-        "C:\\nuget\\system.numerics.vectors/4.5.0\\lib/net46/System.Numerics.Vectors.dll",
-        "C:\\nuget\\system.runtime.compilerservices.unsafe/4.7.1\\lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
-        "C:\\nuget\\system.text.encodings.web/4.7.1\\lib/net461/System.Text.Encodings.Web.dll",
-        "C:\\nuget\\system.text.json/4.7.2\\lib/net461/System.Text.Json.dll",
-        "C:\\nuget\\system.threading.channels/4.7.1\\lib/net461/System.Threading.Channels.dll",
-        "C:\\nuget\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
-        "C:\\nuget\\system.threading.tasks.extensions/4.5.4\\lib/net461/System.Threading.Tasks.Extensions.dll",
-        "C:\\nuget\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\nuget\\uipath.platform/21.4.0\\lib/net461/UiPath.Platform.dll",
-        "C:\\nuget\\uipath.system.activities/21.4.1\\lib/net461/UiPath.OrchestratorClient.dll",
-        "C:\\nuget\\uipath.system.activities/21.4.1\\lib/net461/UiPath.System.Activities.Design.dll",
-        "C:\\nuget\\uipath.system.activities/21.4.1\\lib/net461/UiPath.System.Activities.dll",
-        "C:\\nuget\\uipath.telemetry.client/1.3.18\\lib/net461/TelemetryClient.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\csvhelper/16.0.0\\lib/net45/CsvHelper.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnet.signalr.client/2.4.0\\lib/net45/Microsoft.AspNet.SignalR.Client.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Connections.Abstractions.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Connections.Client.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Connections.Common.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.http.features/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.signalr.client/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Client.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Client.Core.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.signalr.common/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Common.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.bcl.asyncinterfaces/1.1.1\\lib/net461/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.codeanalysis.common/3.8.0\\lib/netstandard2.0/Microsoft.CodeAnalysis.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.codeanalysis.csharp/3.8.0\\lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.codeanalysis.visualbasic/3.8.0\\lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.configuration/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.configuration.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.configuration.binder/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.dependencyinjection/3.1.6\\lib/net461/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.logging/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Logging.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.logging.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.options/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Options.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.primitives/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\sharpziplib/1.2.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.buffers/4.5.1\\lib/net461/System.Buffers.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.collections.immutable/5.0.0\\lib/net461/System.Collections.Immutable.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.componentmodel.annotations/4.7.0\\lib/net461/System.ComponentModel.Annotations.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.io.pipelines/4.7.1\\lib/netstandard2.0/System.IO.Pipelines.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.management.automation/6.1.7601.17515\\lib/net45/System.Management.Automation.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.memory/4.5.4\\lib/net461/System.Memory.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.numerics.vectors/4.5.0\\lib/net46/System.Numerics.Vectors.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.reflection.metadata/5.0.0\\lib/net461/System.Reflection.Metadata.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.runtime.compilerservices.unsafe/4.7.1\\lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.text.encoding.codepages/4.5.1\\runtimes/win/lib/net461/System.Text.Encoding.CodePages.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.text.encodings.web/4.7.1\\lib/net461/System.Text.Encodings.Web.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.text.json/4.7.2\\lib/net461/System.Text.Json.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.threading.channels/4.7.1\\lib/net461/System.Threading.Channels.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.threading.tasks.extensions/4.5.4\\lib/net461/System.Threading.Tasks.Extensions.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.platform/21.10.0\\lib/net461/UiPath.Platform.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.system.activities/21.10.4\\lib/net461/UiPath.OrchestratorClient.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.system.activities/21.10.4\\lib/net461/UiPath.System.Activities.Design.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.system.activities/21.10.4\\lib/net461/UiPath.System.Activities.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.telemetry.client/1.5.3\\lib/net461/TelemetryClient.dll"
       ],
-      "Path": "C:\\nuget\\uipath.system.activities\\21.4.1"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.system.activities\\21.10.4"
     },
     {
       "Package": {
         "Id": "UiPath.UIAutomation.Activities",
-        "Version": "21.4.4"
+        "Version": "21.10.5"
       },
       "Assemblies": [
-        "C:\\nuget\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\nuget\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
-        "C:\\nuget\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
-        "C:\\nuget\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\nuget\\uipath/21.4.25.3292\\lib/net45/UiPath.Interop.dll",
-        "C:\\nuget\\uipath.ocr.activities/3.0.0\\lib/net461/UiPath.OCR.Activities.Design.dll",
-        "C:\\nuget\\uipath.ocr.activities/3.0.0\\lib/net461/UiPath.OCR.Activities.dll",
-        "C:\\nuget\\uipath.ocr.activities/3.0.0\\lib/net461/UiPath.OCR.Core.dll",
-        "C:\\nuget\\uipath.ocr.contracts/2.9.0-preview\\lib/net461/UiPath.OCR.Contracts.dll",
-        "C:\\nuget\\uipath.platform/21.4.0\\lib/net461/UiPath.Platform.dll",
-        "C:\\nuget\\uipath.telemetry.client/1.3.18\\lib/net461/TelemetryClient.dll",
-        "C:\\nuget\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.CV.Activities.Design.dll",
-        "C:\\nuget\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.CV.Activities.dll",
-        "C:\\nuget\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.CV.dll",
-        "C:\\nuget\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\nuget\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.UIAutomation.Activities.Package.dll",
-        "C:\\nuget\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.UIAutomationCore.dll",
-        "C:\\nuget\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.UIAutomationNext.Activities.Design.dll",
-        "C:\\nuget\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.UIAutomationNext.Activities.dll",
-        "C:\\nuget\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.UIAutomationNext.dll",
-        "C:\\nuget\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.UiAutomation.Activities.dll",
-        "C:\\nuget\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.Wizards.dll",
-        "C:\\nuget\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.AzureComputerVision.dll",
-        "C:\\nuget\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.Core.dll",
-        "C:\\nuget\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.GoogleCloud.dll",
-        "C:\\nuget\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.Microsoft.dll",
-        "C:\\nuget\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.Tesseract.dll",
-        "C:\\nuget\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath/21.10.34.30369\\lib/net45/UiPath.Interop.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.activities.runtimegovernance/1.1.3\\lib/net461/UiPath.Activities.RuntimeGovernance.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.imageprocessing/21.10.2\\lib/net461/UiPath.ImageProcessingInterop.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.ocr.activities/3.3.2\\lib/net461/UiPath.OCR.Activities.Design.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.ocr.activities/3.3.2\\lib/net461/UiPath.OCR.Activities.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.ocr.activities/3.3.2\\lib/net461/UiPath.OCR.Core.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.ocr.contracts/2.10.0-preview\\lib/net461/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.platform/21.10.0\\lib/net461/UiPath.Platform.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.telemetry.client/1.5.3\\lib/net461/TelemetryClient.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities/21.10.5\\lib/net461/UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities/21.10.5\\lib/net461/UiPath.CV.Activities.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities/21.10.5\\lib/net461/UiPath.CV.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities/21.10.5\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities/21.10.5\\lib/net461/UiPath.UIAutomationCore.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities/21.10.5\\lib/net461/UiPath.UIAutomationNext.Activities.Design.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities/21.10.5\\lib/net461/UiPath.UIAutomationNext.Activities.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities/21.10.5\\lib/net461/UiPath.UIAutomationNext.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities/21.10.5\\lib/net461/UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities/21.10.5\\lib/net461/UiPath.Wizards.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.vision/3.1.4\\lib/net461/UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.vision/3.1.4\\lib/net461/UiPath.Vision.Core.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.vision/3.1.4\\lib/net461/UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.vision/3.1.4\\lib/net461/UiPath.Vision.Microsoft.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.vision/3.1.4\\lib/net461/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.vision/3.1.4\\lib/net461/UiPath.Vision.dll"
       ],
-      "Path": "C:\\nuget\\uipath.uiautomation.activities\\21.4.4"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.5"
     }
   ],
   "Conflicts": [],
   "ResolvedDependencies": {
-    "AForge": {
-      "Id": "AForge",
-      "Version": "2.2.5",
-      "Dependencies": []
-    },
-    "AForge.Genetic": {
-      "Id": "AForge.Genetic",
-      "Version": "2.2.5",
-      "Dependencies": [
-        {
-          "Item1": "AForge",
-          "Item2": "[2.2.5, )"
-        },
-        {
-          "Item1": "AForge.Math",
-          "Item2": "[2.2.5, )"
-        }
-      ]
-    },
-    "AForge.Imaging": {
-      "Id": "AForge.Imaging",
-      "Version": "2.2.5",
-      "Dependencies": [
-        {
-          "Item1": "AForge",
-          "Item2": "[2.2.5, )"
-        },
-        {
-          "Item1": "AForge.Math",
-          "Item2": "[2.2.5, )"
-        }
-      ]
-    },
-    "AForge.Math": {
-      "Id": "AForge.Math",
-      "Version": "2.2.5",
-      "Dependencies": [
-        {
-          "Item1": "AForge",
-          "Item2": "[2.2.5, )"
-        }
-      ]
-    },
-    "AForge.Neuro": {
-      "Id": "AForge.Neuro",
-      "Version": "2.2.5",
-      "Dependencies": [
-        {
-          "Item1": "AForge",
-          "Item2": "[2.2.5, )"
-        },
-        {
-          "Item1": "AForge.Math",
-          "Item2": "[2.2.5, )"
-        },
-        {
-          "Item1": "AForge.Genetic",
-          "Item2": "[2.2.5, )"
-        }
-      ]
-    },
     "BitMiracle.Docotic.Pdf": {
       "Id": "BitMiracle.Docotic.Pdf",
       "Version": "7.5.11645",
+      "Dependencies": []
+    },
+    "BitMiracle.LibTiff.NET": {
+      "Id": "BitMiracle.LibTiff.NET",
+      "Version": "2.4.649",
       "Dependencies": []
     },
     "ClosedXML": {
@@ -331,16 +293,6 @@
     "FSharp.Core": {
       "Id": "FSharp.Core",
       "Version": "4.7.1",
-      "Dependencies": []
-    },
-    "IvanAkcheurov.NTextCat.Lib": {
-      "Id": "IvanAkcheurov.NTextCat.Lib",
-      "Version": "0.2.1.1",
-      "Dependencies": []
-    },
-    "MathNet.Numerics": {
-      "Id": "MathNet.Numerics",
-      "Version": "4.5.1",
       "Dependencies": []
     },
     "Microsoft.AspNet.SignalR.Client": {
@@ -499,9 +451,68 @@
         }
       ]
     },
+    "Microsoft.CodeAnalysis.Analyzers": {
+      "Id": "Microsoft.CodeAnalysis.Analyzers",
+      "Version": "3.0.0",
+      "Dependencies": []
+    },
+    "Microsoft.CodeAnalysis.Common": {
+      "Id": "Microsoft.CodeAnalysis.Common",
+      "Version": "3.8.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.CodeAnalysis.Analyzers",
+          "Item2": "[3.0.0, )"
+        },
+        {
+          "Item1": "System.Collections.Immutable",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "System.Memory",
+          "Item2": "[4.5.4, )"
+        },
+        {
+          "Item1": "System.Reflection.Metadata",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "System.Runtime.CompilerServices.Unsafe",
+          "Item2": "[4.7.1, )"
+        },
+        {
+          "Item1": "System.Text.Encoding.CodePages",
+          "Item2": "[4.5.1, )"
+        },
+        {
+          "Item1": "System.Threading.Tasks.Extensions",
+          "Item2": "[4.5.4, )"
+        }
+      ]
+    },
+    "Microsoft.CodeAnalysis.CSharp": {
+      "Id": "Microsoft.CodeAnalysis.CSharp",
+      "Version": "3.8.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.CodeAnalysis.Common",
+          "Item2": "[3.8.0, 3.8.0]"
+        }
+      ]
+    },
+    "Microsoft.CodeAnalysis.VisualBasic": {
+      "Id": "Microsoft.CodeAnalysis.VisualBasic",
+      "Version": "3.8.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.CodeAnalysis.Common",
+          "Item2": "[3.8.0, 3.8.0]"
+        }
+      ]
+    },
     "Microsoft.CSharp": {
       "Id": "Microsoft.CSharp",
-      "Version": "4.5.0",
+      "Version": "4.7.0",
       "Dependencies": []
     },
     "Microsoft.Extensions.Configuration": {
@@ -622,6 +633,11 @@
         }
       ]
     },
+    "Microsoft.VisualBasic": {
+      "Id": "Microsoft.VisualBasic",
+      "Version": "10.3.0",
+      "Dependencies": []
+    },
     "Microsoft.VisualStudio.OLE.Interop": {
       "Id": "Microsoft.VisualStudio.OLE.Interop",
       "Version": "16.7.30328.74",
@@ -629,7 +645,7 @@
     },
     "Microsoft.Xaml.Behaviors.Wpf": {
       "Id": "Microsoft.Xaml.Behaviors.Wpf",
-      "Version": "1.0.1",
+      "Version": "1.1.3",
       "Dependencies": []
     },
     "Newtonsoft.Json": {
@@ -646,6 +662,11 @@
           "Item2": "[1.0.0, )"
         }
       ]
+    },
+    "NTextCat": {
+      "Id": "NTextCat",
+      "Version": "0.3.65",
+      "Dependencies": []
     },
     "Polly": {
       "Id": "Polly",
@@ -664,12 +685,27 @@
     },
     "System.Collections.Immutable": {
       "Id": "System.Collections.Immutable",
-      "Version": "1.5.0",
-      "Dependencies": []
+      "Version": "5.0.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Memory",
+          "Item2": "[4.5.4, )"
+        }
+      ]
     },
     "System.ComponentModel.Annotations": {
       "Id": "System.ComponentModel.Annotations",
       "Version": "4.7.0",
+      "Dependencies": []
+    },
+    "System.Drawing.Common": {
+      "Id": "System.Drawing.Common",
+      "Version": "5.0.2",
+      "Dependencies": []
+    },
+    "System.Drawing.Primitives": {
+      "Id": "System.Drawing.Primitives",
+      "Version": "4.3.0",
       "Dependencies": []
     },
     "System.IO.Abstractions": {
@@ -723,15 +759,89 @@
         }
       ]
     },
+    "System.Net.Http": {
+      "Id": "System.Net.Http",
+      "Version": "4.3.4",
+      "Dependencies": [
+        {
+          "Item1": "System.Security.Cryptography.X509Certificates",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
     "System.Numerics.Vectors": {
       "Id": "System.Numerics.Vectors",
       "Version": "4.5.0",
+      "Dependencies": []
+    },
+    "System.Reflection.Metadata": {
+      "Id": "System.Reflection.Metadata",
+      "Version": "5.0.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Collections.Immutable",
+          "Item2": "[5.0.0, )"
+        }
+      ]
+    },
+    "System.Runtime": {
+      "Id": "System.Runtime",
+      "Version": "4.3.1",
       "Dependencies": []
     },
     "System.Runtime.CompilerServices.Unsafe": {
       "Id": "System.Runtime.CompilerServices.Unsafe",
       "Version": "4.7.1",
       "Dependencies": []
+    },
+    "System.Runtime.InteropServices.RuntimeInformation": {
+      "Id": "System.Runtime.InteropServices.RuntimeInformation",
+      "Version": "4.3.0",
+      "Dependencies": []
+    },
+    "System.Security.Cryptography.Algorithms": {
+      "Id": "System.Security.Cryptography.Algorithms",
+      "Version": "4.3.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Security.Cryptography.Primitives",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
+    "System.Security.Cryptography.Encoding": {
+      "Id": "System.Security.Cryptography.Encoding",
+      "Version": "4.3.0",
+      "Dependencies": []
+    },
+    "System.Security.Cryptography.Primitives": {
+      "Id": "System.Security.Cryptography.Primitives",
+      "Version": "4.3.0",
+      "Dependencies": []
+    },
+    "System.Security.Cryptography.X509Certificates": {
+      "Id": "System.Security.Cryptography.X509Certificates",
+      "Version": "4.3.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Security.Cryptography.Algorithms",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Security.Cryptography.Encoding",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
+    "System.Text.Encoding.CodePages": {
+      "Id": "System.Text.Encoding.CodePages",
+      "Version": "4.5.1",
+      "Dependencies": [
+        {
+          "Item1": "System.Runtime.CompilerServices.Unsafe",
+          "Item2": "[4.5.2, )"
+        }
+      ]
     },
     "System.Text.Encodings.Web": {
       "Id": "System.Text.Encodings.Web",
@@ -818,17 +928,12 @@
     },
     "UiPath": {
       "Id": "UiPath",
-      "Version": "21.4.25.3292",
+      "Version": "21.10.34.30369",
       "Dependencies": []
     },
-    "UiPath.CefSharpBundle": {
-      "Id": "UiPath.CefSharpBundle",
-      "Version": "1.5.0-preview",
-      "Dependencies": []
-    },
-    "UiPath.DocumentProcessing.Contracts": {
-      "Id": "UiPath.DocumentProcessing.Contracts",
-      "Version": "1.10.2-preview",
+    "UiPath.Activities.RuntimeGovernance": {
+      "Id": "UiPath.Activities.RuntimeGovernance",
+      "Version": "1.1.3",
       "Dependencies": [
         {
           "Item1": "Newtonsoft.Json",
@@ -836,13 +941,62 @@
         }
       ]
     },
+    "UiPath.CefSharpBundle": {
+      "Id": "UiPath.CefSharpBundle",
+      "Version": "1.7.0-preview",
+      "Dependencies": []
+    },
+    "UiPath.DocumentProcessing.Contracts": {
+      "Id": "UiPath.DocumentProcessing.Contracts",
+      "Version": "1.13.0-preview",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        }
+      ]
+    },
+    "UiPath.DocumentUnderstanding.Digitizer": {
+      "Id": "UiPath.DocumentUnderstanding.Digitizer",
+      "Version": "1.3.0-preview",
+      "Dependencies": [
+        {
+          "Item1": "BitMiracle.Docotic.Pdf",
+          "Item2": "[7.5.11645, )"
+        },
+        {
+          "Item1": "System.Drawing.Common",
+          "Item2": "[5.0.2, )"
+        },
+        {
+          "Item1": "System.Drawing.Primitives",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Collections.Immutable",
+          "Item2": "[1.5.0, )"
+        },
+        {
+          "Item1": "NTextCat",
+          "Item2": "[0.3.65, )"
+        },
+        {
+          "Item1": "BitMiracle.LibTiff.NET",
+          "Item2": "[2.4.649, )"
+        },
+        {
+          "Item1": "UiPath.DocumentProcessing.Contracts",
+          "Item2": "[1.13.0-preview, )"
+        }
+      ]
+    },
     "UiPath.DocumentUnderstanding.ML.Activities": {
       "Id": "UiPath.DocumentUnderstanding.ML.Activities",
-      "Version": "1.8.0-preview",
+      "Version": "1.12.0-preview",
       "Dependencies": [
         {
           "Item1": "UiPath.DocumentProcessing.Contracts",
-          "Item2": "[1.10.2-preview, )"
+          "Item2": "[1.13.0-preview, )"
         },
         {
           "Item1": "Microsoft.Rest.ClientRuntime",
@@ -866,13 +1020,22 @@
         },
         {
           "Item1": "UiPath.Telemetry.Client",
-          "Item2": "[1.3.18, )"
+          "Item2": "[1.5.3, )"
+        },
+        {
+          "Item1": "UiPath.DocumentUnderstanding.Digitizer",
+          "Item2": "[1.3.0-preview, )"
         }
       ]
     },
+    "UiPath.EmguCVBundle": {
+      "Id": "UiPath.EmguCVBundle",
+      "Version": "1.0.0-preview",
+      "Dependencies": []
+    },
     "UiPath.Excel.Activities": {
       "Id": "UiPath.Excel.Activities",
-      "Version": "2.10.4",
+      "Version": "2.11.4",
       "Dependencies": [
         {
           "Item1": "ClosedXML",
@@ -893,139 +1056,142 @@
         {
           "Item1": "NPOI",
           "Item2": "[2.4.1, )"
-        },
-        {
-          "Item1": "SharpZipLib",
-          "Item2": "[1.0.0, )"
         }
       ]
     },
+    "UiPath.ImageProcessing": {
+      "Id": "UiPath.ImageProcessing",
+      "Version": "21.10.2",
+      "Dependencies": []
+    },
     "UiPath.IntelligentOCR.Activities": {
       "Id": "UiPath.IntelligentOCR.Activities",
-      "Version": "4.17.0-preview",
+      "Version": "5.4.1-preview",
       "Dependencies": [
-        {
-          "Item1": "UiPath.DocumentProcessing.Contracts",
-          "Item2": "[1.10.2-preview, )"
-        },
-        {
-          "Item1": "UiPath.CefSharpBundle",
-          "Item2": "[1.5.0-preview, )"
-        },
-        {
-          "Item1": "UiPath.OCR.Contracts",
-          "Item2": "[2.9.0-preview, )"
-        },
-        {
-          "Item1": "Microsoft.Xaml.Behaviors.Wpf",
-          "Item2": "[1.0.1, )"
-        },
-        {
-          "Item1": "Newtonsoft.Json",
-          "Item2": "[11.0.2, )"
-        },
-        {
-          "Item1": "System.Collections.Immutable",
-          "Item2": "[1.5.0, )"
-        },
-        {
-          "Item1": "IvanAkcheurov.NTextCat.Lib",
-          "Item2": "[0.2.1.1, )"
-        },
         {
           "Item1": "BitMiracle.Docotic.Pdf",
           "Item2": "[7.5.11645, )"
         },
         {
-          "Item1": "AForge.Imaging",
-          "Item2": "[2.2.5, )"
+          "Item1": "BitMiracle.LibTiff.NET",
+          "Item2": "[2.4.649, )"
         },
         {
-          "Item1": "AForge.Neuro",
-          "Item2": "[2.2.5, )"
-        },
-        {
-          "Item1": "MathNet.Numerics",
-          "Item2": "[4.5.1, )"
+          "Item1": "FSharp.Core",
+          "Item2": "[4.7.1, )"
         },
         {
           "Item1": "Microsoft.CSharp",
-          "Item2": "[4.5.0, )"
-        },
-        {
-          "Item1": "System.Threading.Tasks.Extensions",
-          "Item2": "[4.5.4, )"
-        },
-        {
-          "Item1": "TinyCsvParser",
-          "Item2": "[2.5.2, )"
-        },
-        {
-          "Item1": "UiPath.WordsToNumbers",
-          "Item2": "[1.0.0, )"
-        },
-        {
-          "Item1": "System.IO.Abstractions",
-          "Item2": "[3.0.10, )"
+          "Item2": "[4.7.0, )"
         },
         {
           "Item1": "Microsoft.Rest.ClientRuntime",
           "Item2": "[2.3.21, )"
         },
         {
-          "Item1": "System.IO.Compression",
-          "Item2": "[4.3.0, )"
+          "Item1": "Microsoft.Xaml.Behaviors.Wpf",
+          "Item2": "[1.1.3, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "NTextCat",
+          "Item2": "[0.3.65, )"
         },
         {
           "Item1": "Polly",
           "Item2": "[7.1.0, )"
         },
         {
-          "Item1": "UiPath.Telemetry.Client",
-          "Item2": "[1.3.18, )"
-        }
-      ]
-    },
-    "UiPath.OCR.Activities": {
-      "Id": "UiPath.OCR.Activities",
-      "Version": "3.0.0",
-      "Dependencies": [
+          "Item1": "System.Collections.Immutable",
+          "Item2": "[5.0.0, )"
+        },
         {
-          "Item1": "UiPath.OCR.Contracts",
-          "Item2": "[2.7.3, )"
-        }
-      ]
-    },
-    "UiPath.OCR.Contracts": {
-      "Id": "UiPath.OCR.Contracts",
-      "Version": "2.9.0-preview",
-      "Dependencies": []
-    },
-    "UiPath.PDF.Activities": {
-      "Id": "UiPath.PDF.Activities",
-      "Version": "3.4.0",
-      "Dependencies": [
+          "Item1": "System.Drawing.Common",
+          "Item2": "[5.0.2, )"
+        },
+        {
+          "Item1": "System.Drawing.Primitives",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.IO.Abstractions",
+          "Item2": "[3.0.10, )"
+        },
+        {
+          "Item1": "System.IO.Compression",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        },
+        {
+          "Item1": "System.Runtime",
+          "Item2": "[4.3.1, )"
+        },
+        {
+          "Item1": "System.Runtime.InteropServices.RuntimeInformation",
+          "Item2": "[4.3.0, )"
+        },
         {
           "Item1": "System.ValueTuple",
           "Item2": "[4.5.0, )"
         },
         {
+          "Item1": "TinyCsvParser",
+          "Item2": "[2.5.2, )"
+        },
+        {
+          "Item1": "UiPath.CefSharpBundle",
+          "Item2": "[1.7.0-preview, )"
+        },
+        {
+          "Item1": "UiPath.DocumentProcessing.Contracts",
+          "Item2": "[1.13.0-preview, )"
+        },
+        {
+          "Item1": "UiPath.DocumentUnderstanding.Digitizer",
+          "Item2": "[1.3.0-preview, )"
+        },
+        {
+          "Item1": "UiPath.EmguCVBundle",
+          "Item2": "[1.0.0-preview, )"
+        },
+        {
           "Item1": "UiPath.OCR.Contracts",
-          "Item2": "[2.7.3, )"
+          "Item2": "[2.10.0-preview, )"
         },
         {
           "Item1": "UiPath.Telemetry.Client",
-          "Item2": "[1.3.18, )"
+          "Item2": "[1.5.3, )"
         },
         {
-          "Item1": "BitMiracle.Docotic.Pdf",
-          "Item2": "[7.5.11645, )"
+          "Item1": "UiPath.WordsToNumbers",
+          "Item2": "[1.0.0, )"
         }
       ]
     },
+    "UiPath.OCR.Activities": {
+      "Id": "UiPath.OCR.Activities",
+      "Version": "3.3.2",
+      "Dependencies": [
+        {
+          "Item1": "UiPath.OCR.Contracts",
+          "Item2": "[2.9.1, )"
+        }
+      ]
+    },
+    "UiPath.OCR.Contracts": {
+      "Id": "UiPath.OCR.Contracts",
+      "Version": "2.10.0-preview",
+      "Dependencies": []
+    },
     "UiPath.Platform": {
       "Id": "UiPath.Platform",
-      "Version": "21.4.0",
+      "Version": "21.10.0",
       "Dependencies": [
         {
           "Item1": "Newtonsoft.Json",
@@ -1043,7 +1209,7 @@
     },
     "UiPath.System.Activities": {
       "Id": "UiPath.System.Activities",
-      "Version": "21.4.1",
+      "Version": "21.10.4",
       "Dependencies": [
         {
           "Item1": "CsvHelper",
@@ -1058,8 +1224,28 @@
           "Item2": "[3.1.6, )"
         },
         {
+          "Item1": "Microsoft.CSharp",
+          "Item2": "[4.7.0, )"
+        },
+        {
+          "Item1": "Microsoft.CodeAnalysis.CSharp",
+          "Item2": "[3.8.0, )"
+        },
+        {
+          "Item1": "Microsoft.CodeAnalysis.Common",
+          "Item2": "[3.8.0, )"
+        },
+        {
+          "Item1": "Microsoft.CodeAnalysis.VisualBasic",
+          "Item2": "[3.8.0, )"
+        },
+        {
           "Item1": "Microsoft.Rest.ClientRuntime",
           "Item2": "[2.3.21, )"
+        },
+        {
+          "Item1": "Microsoft.VisualBasic",
+          "Item2": "[10.3.0, )"
         },
         {
           "Item1": "Newtonsoft.Json",
@@ -1075,17 +1261,17 @@
         },
         {
           "Item1": "UiPath.Platform",
-          "Item2": "[21.4.0, )"
+          "Item2": "[21.10.0, )"
         },
         {
           "Item1": "UiPath.Telemetry.Client",
-          "Item2": "[1.3.18, )"
+          "Item2": "[1.5.3, )"
         }
       ]
     },
     "UiPath.Telemetry.Client": {
       "Id": "UiPath.Telemetry.Client",
-      "Version": "1.3.18",
+      "Version": "1.5.3",
       "Dependencies": [
         {
           "Item1": "Newtonsoft.Json",
@@ -1094,32 +1280,36 @@
         {
           "Item1": "System.Threading.Tasks.Dataflow",
           "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.5.0, )"
         }
       ]
     },
     "UiPath.UIAutomation.Activities": {
       "Id": "UiPath.UIAutomation.Activities",
-      "Version": "21.4.4",
+      "Version": "21.10.5",
       "Dependencies": [
         {
           "Item1": "UiPath",
-          "Item2": "[21.4.25.3292, 21.4.25.3292]"
+          "Item2": "[21.10.34.30369, 21.10.34.30369]"
         },
         {
           "Item1": "UiPath.Vision",
-          "Item2": "[3.0.1, )"
+          "Item2": "[3.1.4, )"
         },
         {
           "Item1": "UiPath.OCR.Contracts",
-          "Item2": "[2.7.3, )"
+          "Item2": "[2.9.1, )"
         },
         {
           "Item1": "UiPath.OCR.Activities",
-          "Item2": "[3.0.0, )"
+          "Item2": "[3.3.2, )"
         },
         {
           "Item1": "UiPath.Platform",
-          "Item2": "[21.4.0, )"
+          "Item2": "[21.10.0, )"
         },
         {
           "Item1": "Newtonsoft.Json",
@@ -1130,18 +1320,26 @@
           "Item2": "[3.0.10, )"
         },
         {
+          "Item1": "UiPath.ImageProcessing",
+          "Item2": "[21.10.2, )"
+        },
+        {
           "Item1": "UiPath.Telemetry.Client",
-          "Item2": "[1.3.18, )"
+          "Item2": "[1.5.3, )"
+        },
+        {
+          "Item1": "UiPath.Activities.RuntimeGovernance",
+          "Item2": "[1.1.3, )"
         }
       ]
     },
     "UiPath.Vision": {
       "Id": "UiPath.Vision",
-      "Version": "3.0.1",
+      "Version": "3.1.4",
       "Dependencies": [
         {
           "Item1": "UiPath.OCR.Contracts",
-          "Item2": "[2.7.3, )"
+          "Item2": "[2.9.1, )"
         }
       ]
     },
@@ -1159,63 +1357,23 @@
   "AllPackages": [
     {
       "Package": {
-        "Id": "AForge",
-        "Version": "2.2.5"
-      },
-      "Assemblies": [
-        "C:\\nuget\\aforge\\2.2.5\\lib\\AForge.dll"
-      ],
-      "Path": "C:\\nuget\\aforge\\2.2.5"
-    },
-    {
-      "Package": {
-        "Id": "AForge.Genetic",
-        "Version": "2.2.5"
-      },
-      "Assemblies": [
-        "C:\\nuget\\aforge.genetic\\2.2.5\\lib\\AForge.Genetic.dll"
-      ],
-      "Path": "C:\\nuget\\aforge.genetic\\2.2.5"
-    },
-    {
-      "Package": {
-        "Id": "AForge.Imaging",
-        "Version": "2.2.5"
-      },
-      "Assemblies": [
-        "C:\\nuget\\aforge.imaging\\2.2.5\\lib\\AForge.Imaging.dll"
-      ],
-      "Path": "C:\\nuget\\aforge.imaging\\2.2.5"
-    },
-    {
-      "Package": {
-        "Id": "AForge.Math",
-        "Version": "2.2.5"
-      },
-      "Assemblies": [
-        "C:\\nuget\\aforge.math\\2.2.5\\lib\\AForge.Math.dll"
-      ],
-      "Path": "C:\\nuget\\aforge.math\\2.2.5"
-    },
-    {
-      "Package": {
-        "Id": "AForge.Neuro",
-        "Version": "2.2.5"
-      },
-      "Assemblies": [
-        "C:\\nuget\\aforge.neuro\\2.2.5\\lib\\AForge.Neuro.dll"
-      ],
-      "Path": "C:\\nuget\\aforge.neuro\\2.2.5"
-    },
-    {
-      "Package": {
         "Id": "BitMiracle.Docotic.Pdf",
         "Version": "7.5.11645"
       },
       "Assemblies": [
-        "C:\\nuget\\bitmiracle.docotic.pdf\\7.5.11645\\lib\\net46\\BitMiracle.Docotic.Pdf.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\bitmiracle.docotic.pdf\\7.5.11645\\lib\\net46\\BitMiracle.Docotic.Pdf.dll"
       ],
-      "Path": "C:\\nuget\\bitmiracle.docotic.pdf\\7.5.11645"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\bitmiracle.docotic.pdf\\7.5.11645"
+    },
+    {
+      "Package": {
+        "Id": "BitMiracle.LibTiff.NET",
+        "Version": "2.4.649"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\lib\\net40\\BitMiracle.LibTiff.NET.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649"
     },
     {
       "Package": {
@@ -1223,9 +1381,9 @@
         "Version": "0.87.1"
       },
       "Assemblies": [
-        "C:\\nuget\\closedxml\\0.87.1\\lib\\net40\\ClosedXML.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\closedxml\\0.87.1\\lib\\net40\\ClosedXML.dll"
       ],
-      "Path": "C:\\nuget\\closedxml\\0.87.1"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\closedxml\\0.87.1"
     },
     {
       "Package": {
@@ -1233,9 +1391,9 @@
         "Version": "16.0.0"
       },
       "Assemblies": [
-        "C:\\nuget\\csvhelper\\16.0.0\\lib\\net45\\CsvHelper.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\csvhelper\\16.0.0\\lib\\net45\\CsvHelper.dll"
       ],
-      "Path": "C:\\nuget\\csvhelper\\16.0.0"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\csvhelper\\16.0.0"
     },
     {
       "Package": {
@@ -1243,9 +1401,9 @@
         "Version": "2.5.0"
       },
       "Assemblies": [
-        "C:\\nuget\\documentformat.openxml\\2.5.0\\lib\\DocumentFormat.OpenXml.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\documentformat.openxml\\2.5.0\\lib\\DocumentFormat.OpenXml.dll"
       ],
-      "Path": "C:\\nuget\\documentformat.openxml\\2.5.0"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\documentformat.openxml\\2.5.0"
     },
     {
       "Package": {
@@ -1253,31 +1411,9 @@
         "Version": "4.7.1"
       },
       "Assemblies": [
-        "C:\\nuget\\fsharp.core\\4.7.1\\lib\\net45\\FSharp.Core.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\fsharp.core\\4.7.1\\lib\\net45\\FSharp.Core.dll"
       ],
-      "Path": "C:\\nuget\\fsharp.core\\4.7.1"
-    },
-    {
-      "Package": {
-        "Id": "IvanAkcheurov.NTextCat.Lib",
-        "Version": "0.2.1.1"
-      },
-      "Assemblies": [
-        "C:\\nuget\\ivanakcheurov.ntextcat.lib\\0.2.1.1\\lib\\net40\\IvanAkcheurov.Commons.dll",
-        "C:\\nuget\\ivanakcheurov.ntextcat.lib\\0.2.1.1\\lib\\net40\\IvanAkcheurov.NClassify.dll",
-        "C:\\nuget\\ivanakcheurov.ntextcat.lib\\0.2.1.1\\lib\\net40\\IvanAkcheurov.NTextCat.Lib.dll"
-      ],
-      "Path": "C:\\nuget\\ivanakcheurov.ntextcat.lib\\0.2.1.1"
-    },
-    {
-      "Package": {
-        "Id": "MathNet.Numerics",
-        "Version": "4.5.1"
-      },
-      "Assemblies": [
-        "C:\\nuget\\mathnet.numerics\\4.5.1\\lib\\net461\\MathNet.Numerics.dll"
-      ],
-      "Path": "C:\\nuget\\mathnet.numerics\\4.5.1"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\fsharp.core\\4.7.1"
     },
     {
       "Package": {
@@ -1285,9 +1421,9 @@
         "Version": "2.4.0"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.aspnet.signalr.client\\2.4.0\\lib\\net45\\Microsoft.AspNet.SignalR.Client.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\lib\\net45\\Microsoft.AspNet.SignalR.Client.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.aspnet.signalr.client\\2.4.0"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0"
     },
     {
       "Package": {
@@ -1295,9 +1431,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.aspnetcore.connections.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.Connections.Abstractions.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.Connections.Abstractions.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.aspnetcore.connections.abstractions\\3.1.6"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6"
     },
     {
       "Package": {
@@ -1305,9 +1441,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.aspnetcore.http.connections.client\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Connections.Client.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Connections.Client.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.aspnetcore.http.connections.client\\3.1.6"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.6"
     },
     {
       "Package": {
@@ -1315,9 +1451,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.aspnetcore.http.connections.common\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Connections.Common.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Connections.Common.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.aspnetcore.http.connections.common\\3.1.6"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.6"
     },
     {
       "Package": {
@@ -1325,9 +1461,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.aspnetcore.http.features\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Features.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Features.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.aspnetcore.http.features\\3.1.6"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.6"
     },
     {
       "Package": {
@@ -1335,9 +1471,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.aspnetcore.signalr.client\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.SignalR.Client.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.SignalR.Client.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.aspnetcore.signalr.client\\3.1.6"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.6"
     },
     {
       "Package": {
@@ -1345,9 +1481,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.aspnetcore.signalr.client.core\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.SignalR.Client.Core.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.SignalR.Client.Core.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.aspnetcore.signalr.client.core\\3.1.6"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.6"
     },
     {
       "Package": {
@@ -1355,9 +1491,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.aspnetcore.signalr.common\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.SignalR.Common.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.SignalR.Common.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.aspnetcore.signalr.common\\3.1.6"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.6"
     },
     {
       "Package": {
@@ -1365,9 +1501,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.SignalR.Protocols.Json.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.SignalR.Protocols.Json.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6"
     },
     {
       "Package": {
@@ -1375,19 +1511,57 @@
         "Version": "1.1.1"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.bcl.asyncinterfaces\\1.1.1\\lib\\net461\\Microsoft.Bcl.AsyncInterfaces.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\lib\\net461\\Microsoft.Bcl.AsyncInterfaces.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.bcl.asyncinterfaces\\1.1.1"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.CodeAnalysis.Analyzers",
+        "Version": "3.0.0"
+      },
+      "Assemblies": [],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.CodeAnalysis.Common",
+        "Version": "3.8.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.codeanalysis.common\\3.8.0\\lib\\netstandard2.0\\Microsoft.CodeAnalysis.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.codeanalysis.common\\3.8.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.CodeAnalysis.CSharp",
+        "Version": "3.8.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.8.0\\lib\\netstandard2.0\\Microsoft.CodeAnalysis.CSharp.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.8.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.CodeAnalysis.VisualBasic",
+        "Version": "3.8.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\3.8.0\\lib\\netstandard2.0\\Microsoft.CodeAnalysis.VisualBasic.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\3.8.0"
     },
     {
       "Package": {
         "Id": "Microsoft.CSharp",
-        "Version": "4.5.0"
+        "Version": "4.7.0"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.csharp\\4.5.0\\lib\\net45\\_._"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.csharp\\4.7.0\\lib\\net45\\_._"
       ],
-      "Path": "C:\\nuget\\microsoft.csharp\\4.5.0"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.csharp\\4.7.0"
     },
     {
       "Package": {
@@ -1395,9 +1569,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.extensions.configuration\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.extensions.configuration\\3.1.6"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6"
     },
     {
       "Package": {
@@ -1405,9 +1579,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.extensions.configuration.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.Abstractions.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.Abstractions.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.extensions.configuration.abstractions\\3.1.6"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6"
     },
     {
       "Package": {
@@ -1415,9 +1589,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.extensions.configuration.binder\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.Binder.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.Binder.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.extensions.configuration.binder\\3.1.6"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6"
     },
     {
       "Package": {
@@ -1425,9 +1599,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.extensions.dependencyinjection\\3.1.6\\lib\\net461\\Microsoft.Extensions.DependencyInjection.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\lib\\net461\\Microsoft.Extensions.DependencyInjection.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.extensions.dependencyinjection\\3.1.6"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6"
     },
     {
       "Package": {
@@ -1435,9 +1609,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6"
     },
     {
       "Package": {
@@ -1445,9 +1619,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.extensions.logging\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Logging.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Logging.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.extensions.logging\\3.1.6"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6"
     },
     {
       "Package": {
@@ -1455,9 +1629,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.extensions.logging.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Logging.Abstractions.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.extensions.logging.abstractions\\3.1.6"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6"
     },
     {
       "Package": {
@@ -1465,9 +1639,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.extensions.options\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Options.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Options.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.extensions.options\\3.1.6"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.options\\3.1.6"
     },
     {
       "Package": {
@@ -1475,9 +1649,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.extensions.primitives\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Primitives.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Primitives.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.extensions.primitives\\3.1.6"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6"
     },
     {
       "Package": {
@@ -1485,9 +1659,19 @@
         "Version": "2.3.21"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.rest.clientruntime\\2.3.21\\lib\\net461\\Microsoft.Rest.ClientRuntime.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib\\net461\\Microsoft.Rest.ClientRuntime.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.rest.clientruntime\\2.3.21"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.VisualBasic",
+        "Version": "10.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\lib\\net45\\_._"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.visualbasic\\10.3.0"
     },
     {
       "Package": {
@@ -1495,19 +1679,19 @@
         "Version": "16.7.30328.74"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.visualstudio.ole.interop\\16.7.30328.74\\lib\\net45\\Microsoft.VisualStudio.OLE.Interop.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74\\lib\\net45\\Microsoft.VisualStudio.OLE.Interop.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.visualstudio.ole.interop\\16.7.30328.74"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74"
     },
     {
       "Package": {
         "Id": "Microsoft.Xaml.Behaviors.Wpf",
-        "Version": "1.0.1"
+        "Version": "1.1.3"
       },
       "Assemblies": [
-        "C:\\nuget\\microsoft.xaml.behaviors.wpf\\1.0.1\\lib\\net45\\Microsoft.Xaml.Behaviors.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.3\\lib\\net45\\Microsoft.Xaml.Behaviors.dll"
       ],
-      "Path": "C:\\nuget\\microsoft.xaml.behaviors.wpf\\1.0.1"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.3"
     },
     {
       "Package": {
@@ -1515,9 +1699,9 @@
         "Version": "11.0.2"
       },
       "Assemblies": [
-        "C:\\nuget\\newtonsoft.json\\11.0.2\\lib\\net45\\Newtonsoft.Json.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\newtonsoft.json\\11.0.2\\lib\\net45\\Newtonsoft.Json.dll"
       ],
-      "Path": "C:\\nuget\\newtonsoft.json\\11.0.2"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\newtonsoft.json\\11.0.2"
     },
     {
       "Package": {
@@ -1525,12 +1709,22 @@
         "Version": "2.4.1"
       },
       "Assemblies": [
-        "C:\\nuget\\npoi\\2.4.1\\lib\\net45\\NPOI.OOXML.dll",
-        "C:\\nuget\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXml4Net.dll",
-        "C:\\nuget\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll",
-        "C:\\nuget\\npoi\\2.4.1\\lib\\net45\\NPOI.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OOXML.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXml4Net.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.dll"
       ],
-      "Path": "C:\\nuget\\npoi\\2.4.1"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\npoi\\2.4.1"
+    },
+    {
+      "Package": {
+        "Id": "NTextCat",
+        "Version": "0.3.65"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\ntextcat\\0.3.65\\lib\\netstandard2.0\\NTextCat.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\ntextcat\\0.3.65"
     },
     {
       "Package": {
@@ -1538,9 +1732,9 @@
         "Version": "7.1.0"
       },
       "Assemblies": [
-        "C:\\nuget\\polly\\7.1.0\\lib\\netstandard2.0\\Polly.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\polly\\7.1.0\\lib\\netstandard2.0\\Polly.dll"
       ],
-      "Path": "C:\\nuget\\polly\\7.1.0"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\polly\\7.1.0"
     },
     {
       "Package": {
@@ -1548,9 +1742,9 @@
         "Version": "1.2.0"
       },
       "Assemblies": [
-        "C:\\nuget\\sharpziplib\\1.2.0\\lib\\net45\\ICSharpCode.SharpZipLib.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\sharpziplib\\1.2.0\\lib\\net45\\ICSharpCode.SharpZipLib.dll"
       ],
-      "Path": "C:\\nuget\\sharpziplib\\1.2.0"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\sharpziplib\\1.2.0"
     },
     {
       "Package": {
@@ -1558,19 +1752,19 @@
         "Version": "4.5.1"
       },
       "Assemblies": [
-        "C:\\nuget\\system.buffers\\4.5.1\\lib\\net461\\System.Buffers.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.buffers\\4.5.1\\lib\\net461\\System.Buffers.dll"
       ],
-      "Path": "C:\\nuget\\system.buffers\\4.5.1"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.buffers\\4.5.1"
     },
     {
       "Package": {
         "Id": "System.Collections.Immutable",
-        "Version": "1.5.0"
+        "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\nuget\\system.collections.immutable\\1.5.0\\lib\\netstandard2.0\\System.Collections.Immutable.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.collections.immutable\\5.0.0\\lib\\net461\\System.Collections.Immutable.dll"
       ],
-      "Path": "C:\\nuget\\system.collections.immutable\\1.5.0"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.collections.immutable\\5.0.0"
     },
     {
       "Package": {
@@ -1578,9 +1772,29 @@
         "Version": "4.7.0"
       },
       "Assemblies": [
-        "C:\\nuget\\system.componentmodel.annotations\\4.7.0\\lib\\net461\\System.ComponentModel.Annotations.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\lib\\net461\\System.ComponentModel.Annotations.dll"
       ],
-      "Path": "C:\\nuget\\system.componentmodel.annotations\\4.7.0"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Drawing.Common",
+        "Version": "5.0.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.drawing.common\\5.0.2\\lib\\net461\\System.Drawing.Common.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.drawing.common\\5.0.2"
+    },
+    {
+      "Package": {
+        "Id": "System.Drawing.Primitives",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\lib\\net45\\System.Drawing.Primitives.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.drawing.primitives\\4.3.0"
     },
     {
       "Package": {
@@ -1588,9 +1802,9 @@
         "Version": "3.0.10"
       },
       "Assemblies": [
-        "C:\\nuget\\system.io.abstractions\\3.0.10\\lib\\net40\\System.IO.Abstractions.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib\\net40\\System.IO.Abstractions.dll"
       ],
-      "Path": "C:\\nuget\\system.io.abstractions\\3.0.10"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.io.abstractions\\3.0.10"
     },
     {
       "Package": {
@@ -1598,9 +1812,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\nuget\\system.io.compression\\4.3.0\\lib\\net46\\System.IO.Compression.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.io.compression\\4.3.0\\lib\\net46\\System.IO.Compression.dll"
       ],
-      "Path": "C:\\nuget\\system.io.compression\\4.3.0"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.io.compression\\4.3.0"
     },
     {
       "Package": {
@@ -1608,9 +1822,9 @@
         "Version": "4.7.1"
       },
       "Assemblies": [
-        "C:\\nuget\\system.io.pipelines\\4.7.1\\lib\\netstandard2.0\\System.IO.Pipelines.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.io.pipelines\\4.7.1\\lib\\netstandard2.0\\System.IO.Pipelines.dll"
       ],
-      "Path": "C:\\nuget\\system.io.pipelines\\4.7.1"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.io.pipelines\\4.7.1"
     },
     {
       "Package": {
@@ -1618,9 +1832,9 @@
         "Version": "6.1.7601.17515"
       },
       "Assemblies": [
-        "C:\\nuget\\system.management.automation\\6.1.7601.17515\\lib\\net45\\System.Management.Automation.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.management.automation\\6.1.7601.17515\\lib\\net45\\System.Management.Automation.dll"
       ],
-      "Path": "C:\\nuget\\system.management.automation\\6.1.7601.17515"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.management.automation\\6.1.7601.17515"
     },
     {
       "Package": {
@@ -1628,9 +1842,19 @@
         "Version": "4.5.4"
       },
       "Assemblies": [
-        "C:\\nuget\\system.memory\\4.5.4\\lib\\net461\\System.Memory.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.memory\\4.5.4\\lib\\net461\\System.Memory.dll"
       ],
-      "Path": "C:\\nuget\\system.memory\\4.5.4"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.memory\\4.5.4"
+    },
+    {
+      "Package": {
+        "Id": "System.Net.Http",
+        "Version": "4.3.4"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.net.http\\4.3.4\\lib\\net46\\System.Net.Http.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.net.http\\4.3.4"
     },
     {
       "Package": {
@@ -1638,9 +1862,29 @@
         "Version": "4.5.0"
       },
       "Assemblies": [
-        "C:\\nuget\\system.numerics.vectors\\4.5.0\\lib\\net46\\System.Numerics.Vectors.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\lib\\net46\\System.Numerics.Vectors.dll"
       ],
-      "Path": "C:\\nuget\\system.numerics.vectors\\4.5.0"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.numerics.vectors\\4.5.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Reflection.Metadata",
+        "Version": "5.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\lib\\net461\\System.Reflection.Metadata.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.reflection.metadata\\5.0.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Runtime",
+        "Version": "4.3.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.runtime\\4.3.1\\lib\\net45\\_._"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.runtime\\4.3.1"
     },
     {
       "Package": {
@@ -1648,9 +1892,69 @@
         "Version": "4.7.1"
       },
       "Assemblies": [
-        "C:\\nuget\\system.runtime.compilerservices.unsafe\\4.7.1\\lib\\net461\\System.Runtime.CompilerServices.Unsafe.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\lib\\net461\\System.Runtime.CompilerServices.Unsafe.dll"
       ],
-      "Path": "C:\\nuget\\system.runtime.compilerservices.unsafe\\4.7.1"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1"
+    },
+    {
+      "Package": {
+        "Id": "System.Runtime.InteropServices.RuntimeInformation",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\lib\\net45\\System.Runtime.InteropServices.RuntimeInformation.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Security.Cryptography.Algorithms",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0\\lib\\net461\\System.Security.Cryptography.Algorithms.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Security.Cryptography.Encoding",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.security.cryptography.encoding\\4.3.0\\lib\\net46\\System.Security.Cryptography.Encoding.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.security.cryptography.encoding\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Security.Cryptography.Primitives",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0\\lib\\net46\\System.Security.Cryptography.Primitives.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Security.Cryptography.X509Certificates",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\lib\\net461\\System.Security.Cryptography.X509Certificates.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Text.Encoding.CodePages",
+        "Version": "4.5.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\lib\\net461\\System.Text.Encoding.CodePages.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1"
     },
     {
       "Package": {
@@ -1658,9 +1962,9 @@
         "Version": "4.7.1"
       },
       "Assemblies": [
-        "C:\\nuget\\system.text.encodings.web\\4.7.1\\lib\\net461\\System.Text.Encodings.Web.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.text.encodings.web\\4.7.1\\lib\\net461\\System.Text.Encodings.Web.dll"
       ],
-      "Path": "C:\\nuget\\system.text.encodings.web\\4.7.1"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.text.encodings.web\\4.7.1"
     },
     {
       "Package": {
@@ -1668,9 +1972,9 @@
         "Version": "4.7.2"
       },
       "Assemblies": [
-        "C:\\nuget\\system.text.json\\4.7.2\\lib\\net461\\System.Text.Json.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.text.json\\4.7.2\\lib\\net461\\System.Text.Json.dll"
       ],
-      "Path": "C:\\nuget\\system.text.json\\4.7.2"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.text.json\\4.7.2"
     },
     {
       "Package": {
@@ -1678,9 +1982,9 @@
         "Version": "4.7.1"
       },
       "Assemblies": [
-        "C:\\nuget\\system.threading.channels\\4.7.1\\lib\\net461\\System.Threading.Channels.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.threading.channels\\4.7.1\\lib\\net461\\System.Threading.Channels.dll"
       ],
-      "Path": "C:\\nuget\\system.threading.channels\\4.7.1"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.threading.channels\\4.7.1"
     },
     {
       "Package": {
@@ -1688,9 +1992,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\nuget\\system.threading.tasks.dataflow\\5.0.0\\lib\\net461\\System.Threading.Tasks.Dataflow.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0\\lib\\net461\\System.Threading.Tasks.Dataflow.dll"
       ],
-      "Path": "C:\\nuget\\system.threading.tasks.dataflow\\5.0.0"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0"
     },
     {
       "Package": {
@@ -1698,9 +2002,9 @@
         "Version": "4.5.4"
       },
       "Assemblies": [
-        "C:\\nuget\\system.threading.tasks.extensions\\4.5.4\\lib\\net461\\System.Threading.Tasks.Extensions.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\lib\\net461\\System.Threading.Tasks.Extensions.dll"
       ],
-      "Path": "C:\\nuget\\system.threading.tasks.extensions\\4.5.4"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4"
     },
     {
       "Package": {
@@ -1708,9 +2012,9 @@
         "Version": "4.5.0"
       },
       "Assemblies": [
-        "C:\\nuget\\system.valuetuple\\4.5.0\\lib\\net461\\System.ValueTuple.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.valuetuple\\4.5.0\\lib\\net461\\System.ValueTuple.dll"
       ],
-      "Path": "C:\\nuget\\system.valuetuple\\4.5.0"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\system.valuetuple\\4.5.0"
     },
     {
       "Package": {
@@ -1718,210 +2022,249 @@
         "Version": "2.5.2"
       },
       "Assemblies": [
-        "C:\\nuget\\tinycsvparser\\2.5.2\\lib\\net45\\TinyCsvParser.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\tinycsvparser\\2.5.2\\lib\\net45\\TinyCsvParser.dll"
       ],
-      "Path": "C:\\nuget\\tinycsvparser\\2.5.2"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\tinycsvparser\\2.5.2"
     },
     {
       "Package": {
         "Id": "UiPath",
-        "Version": "21.4.25.3292"
+        "Version": "21.10.34.30369"
       },
       "Assemblies": [
-        "C:\\nuget\\uipath\\21.4.25.3292\\lib\\net45\\UiPath.Interop.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath\\21.10.34.30369\\lib\\net45\\UiPath.Interop.dll"
       ],
-      "Path": "C:\\nuget\\uipath\\21.4.25.3292"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath\\21.10.34.30369"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Activities.RuntimeGovernance",
+        "Version": "1.1.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.3\\lib\\net461\\UiPath.Activities.RuntimeGovernance.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.3"
     },
     {
       "Package": {
         "Id": "UiPath.CefSharpBundle",
-        "Version": "1.5.0-preview"
+        "Version": "1.7.0-preview"
       },
       "Assemblies": [
-        "C:\\nuget\\uipath.cefsharpbundle\\1.5.0-preview\\lib\\net452\\CefSharp.Core.Runtime.dll",
-        "C:\\nuget\\uipath.cefsharpbundle\\1.5.0-preview\\lib\\net452\\CefSharp.Core.dll",
-        "C:\\nuget\\uipath.cefsharpbundle\\1.5.0-preview\\lib\\net452\\CefSharp.Wpf.dll",
-        "C:\\nuget\\uipath.cefsharpbundle\\1.5.0-preview\\lib\\net452\\CefSharp.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle\\1.7.0-preview\\lib\\net452\\CefSharp.Core.Runtime.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle\\1.7.0-preview\\lib\\net452\\CefSharp.Core.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle\\1.7.0-preview\\lib\\net452\\CefSharp.Wpf.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle\\1.7.0-preview\\lib\\net452\\CefSharp.dll"
       ],
-      "Path": "C:\\nuget\\uipath.cefsharpbundle\\1.5.0-preview"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.cefsharpbundle\\1.7.0-preview"
     },
     {
       "Package": {
         "Id": "UiPath.DocumentProcessing.Contracts",
-        "Version": "1.10.2-preview"
+        "Version": "1.13.0-preview"
       },
       "Assemblies": [
-        "C:\\nuget\\uipath.documentprocessing.contracts\\1.10.2-preview\\lib\\net461\\UiPath.DocumentProcessing.Contracts.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.13.0-preview\\lib\\net461\\UiPath.DocumentProcessing.Contracts.dll"
       ],
-      "Path": "C:\\nuget\\uipath.documentprocessing.contracts\\1.10.2-preview"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.13.0-preview"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.DocumentUnderstanding.Digitizer",
+        "Version": "1.3.0-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentunderstanding.digitizer\\1.3.0-preview\\lib\\net461\\UiPath.DocumentProcessing.Contracts.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentunderstanding.digitizer\\1.3.0-preview\\lib\\net461\\UiPath.DocumentUnderstanding.Digitizer.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentunderstanding.digitizer\\1.3.0-preview"
     },
     {
       "Package": {
         "Id": "UiPath.DocumentUnderstanding.ML.Activities",
-        "Version": "1.8.0-preview"
+        "Version": "1.12.0-preview"
       },
       "Assemblies": [
-        "C:\\nuget\\uipath.documentunderstanding.ml.activities\\1.8.0-preview\\lib\\net461\\UiPath.DocumentUnderstanding.ML.Activities.Design.dll",
-        "C:\\nuget\\uipath.documentunderstanding.ml.activities\\1.8.0-preview\\lib\\net461\\UiPath.DocumentUnderstanding.ML.Activities.dll",
-        "C:\\nuget\\uipath.documentunderstanding.ml.activities\\1.8.0-preview\\lib\\net461\\UiPath.DocumentUnderstanding.ML.Telemetry.dll",
-        "C:\\nuget\\uipath.documentunderstanding.ml.activities\\1.8.0-preview\\lib\\net461\\UiPath.DocumentUnderstanding.ML.Trainer.dll",
-        "C:\\nuget\\uipath.documentunderstanding.ml.activities\\1.8.0-preview\\lib\\net461\\UiPath.DocumentUnderstanding.ML.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.12.0-preview\\lib\\net461\\UiPath.DocumentUnderstanding.ML.Activities.Design.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.12.0-preview\\lib\\net461\\UiPath.DocumentUnderstanding.ML.Activities.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.12.0-preview\\lib\\net461\\UiPath.DocumentUnderstanding.ML.Telemetry.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.12.0-preview\\lib\\net461\\UiPath.DocumentUnderstanding.ML.Trainer.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.12.0-preview\\lib\\net461\\UiPath.DocumentUnderstanding.ML.dll"
       ],
-      "Path": "C:\\nuget\\uipath.documentunderstanding.ml.activities\\1.8.0-preview"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.12.0-preview"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.EmguCVBundle",
+        "Version": "1.0.0-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0-preview\\lib\\net461\\Emgu.CV.Bitmap.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0-preview\\lib\\net461\\Emgu.CV.Platform.NetStandard.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0-preview\\lib\\net461\\concrt140.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0-preview\\lib\\net461\\cvextern.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0-preview\\lib\\net461\\msvcp140.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0-preview\\lib\\net461\\msvcp140_1.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0-preview\\lib\\net461\\msvcp140_2.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0-preview\\lib\\net461\\msvcp140_atomic_wait.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0-preview\\lib\\net461\\msvcp140_codecvt_ids.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0-preview\\lib\\net461\\vcruntime140.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.emgucvbundle\\1.0.0-preview"
     },
     {
       "Package": {
         "Id": "UiPath.Excel.Activities",
-        "Version": "2.10.4"
+        "Version": "2.11.4"
       },
       "Assemblies": [
-        "C:\\nuget\\uipath.excel.activities\\2.10.4\\lib\\net461\\UiPath.Excel.Activities.Design.dll",
-        "C:\\nuget\\uipath.excel.activities\\2.10.4\\lib\\net461\\UiPath.Excel.Activities.Package.dll",
-        "C:\\nuget\\uipath.excel.activities\\2.10.4\\lib\\net461\\UiPath.Excel.Activities.dll",
-        "C:\\nuget\\uipath.excel.activities\\2.10.4\\lib\\net461\\UiPath.Excel.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities\\2.11.4\\lib\\net461\\Microsoft.Office.Interop.Excel.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities\\2.11.4\\lib\\net461\\Microsoft.Vbe.Interop.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities\\2.11.4\\lib\\net461\\Office.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities\\2.11.4\\lib\\net461\\UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities\\2.11.4\\lib\\net461\\UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities\\2.11.4\\lib\\net461\\UiPath.Excel.Activities.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities\\2.11.4\\lib\\net461\\UiPath.Excel.dll"
       ],
-      "Path": "C:\\nuget\\uipath.excel.activities\\2.10.4"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.excel.activities\\2.11.4"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.ImageProcessing",
+        "Version": "21.10.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.imageprocessing\\21.10.2\\lib\\net461\\UiPath.ImageProcessingInterop.dll"
+      ],
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.imageprocessing\\21.10.2"
     },
     {
       "Package": {
         "Id": "UiPath.IntelligentOCR.Activities",
-        "Version": "4.17.0-preview"
+        "Version": "5.4.1-preview"
       },
       "Assemblies": [
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.DocumentUnderstanding.Contracts.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.DocumentUnderstanding.Persistence.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.IntelligentOCR.Activities.Design.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.IntelligentOCR.Activities.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.IntelligentOCR.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.ClassificationStation.Host.Local.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.ClassificationStation.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.Data.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.Digitization.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.DocumentClassification.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.Host.Local.Infrastructure.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.ImageProcessing.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.Language.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.Localization.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.OCR.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.OutOfProcessUi.Common.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.OutOfProcessUi.Host.WCF.exe",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.PDF.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.PositionBasedExtraction.TemplateManager.exe",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.PositionBasedExtraction.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.TableProcessing.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.TaxonomyManager.Host.Local.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.TaxonomyManager.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.Telemetry.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.Utils.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.ValidationStation.Host.Local.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.ValidationStation.Integration.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.ValidationStation.ValueParsing.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.ValidationStation.dll",
-        "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview\\lib\\net461\\UiPath.SmartData.WPF.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.DocumentUnderstanding.Contracts.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.DocumentUnderstanding.Persistence.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.IntelligentOCR.Activities.Design.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.IntelligentOCR.Activities.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.IntelligentOCR.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.ClassificationStation.Host.Local.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.ClassificationStation.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.Data.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.Digitization.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.DocumentClassification.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.Host.Local.Infrastructure.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.ImageProcessing.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.Language.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.Localization.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.OCR.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.OutOfProcessUi.Common.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.OutOfProcessUi.Host.exe",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.PDF.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.PositionBasedExtraction.TemplateManager.exe",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.PositionBasedExtraction.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.TableProcessing.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.TaxonomyManager.Host.Local.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.TaxonomyManager.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.Telemetry.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.Utils.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.ValidationStation.Host.Local.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.ValidationStation.Integration.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.ValidationStation.ValueParsing.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.ValidationStation.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview\\lib\\net461\\UiPath.SmartData.WPF.dll"
       ],
-      "Path": "C:\\nuget\\uipath.intelligentocr.activities\\4.17.0-preview"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.intelligentocr.activities\\5.4.1-preview"
     },
     {
       "Package": {
         "Id": "UiPath.OCR.Activities",
-        "Version": "3.0.0"
+        "Version": "3.3.2"
       },
       "Assemblies": [
-        "C:\\nuget\\uipath.ocr.activities\\3.0.0\\lib\\net461\\UiPath.OCR.Activities.Design.dll",
-        "C:\\nuget\\uipath.ocr.activities\\3.0.0\\lib\\net461\\UiPath.OCR.Activities.dll",
-        "C:\\nuget\\uipath.ocr.activities\\3.0.0\\lib\\net461\\UiPath.OCR.Core.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.ocr.activities\\3.3.2\\lib\\net461\\UiPath.OCR.Activities.Design.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.ocr.activities\\3.3.2\\lib\\net461\\UiPath.OCR.Activities.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.ocr.activities\\3.3.2\\lib\\net461\\UiPath.OCR.Core.dll"
       ],
-      "Path": "C:\\nuget\\uipath.ocr.activities\\3.0.0"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.ocr.activities\\3.3.2"
     },
     {
       "Package": {
         "Id": "UiPath.OCR.Contracts",
-        "Version": "2.9.0-preview"
+        "Version": "2.10.0-preview"
       },
       "Assemblies": [
-        "C:\\nuget\\uipath.ocr.contracts\\2.9.0-preview\\lib\\net461\\UiPath.OCR.Contracts.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.ocr.contracts\\2.10.0-preview\\lib\\net461\\UiPath.OCR.Contracts.dll"
       ],
-      "Path": "C:\\nuget\\uipath.ocr.contracts\\2.9.0-preview"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.PDF.Activities",
-        "Version": "3.4.0"
-      },
-      "Assemblies": [
-        "C:\\nuget\\uipath.pdf.activities\\3.4.0\\lib\\net461\\UiPath.PDF.Activities.Design.dll",
-        "C:\\nuget\\uipath.pdf.activities\\3.4.0\\lib\\net461\\UiPath.PDF.Activities.dll",
-        "C:\\nuget\\uipath.pdf.activities\\3.4.0\\lib\\net461\\UiPath.PDF.Telemetry.dll",
-        "C:\\nuget\\uipath.pdf.activities\\3.4.0\\lib\\net461\\UiPath.PDF.dll"
-      ],
-      "Path": "C:\\nuget\\uipath.pdf.activities\\3.4.0"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.ocr.contracts\\2.10.0-preview"
     },
     {
       "Package": {
         "Id": "UiPath.Platform",
-        "Version": "21.4.0"
+        "Version": "21.10.0"
       },
       "Assemblies": [
-        "C:\\nuget\\uipath.platform\\21.4.0\\lib\\net461\\UiPath.Platform.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.platform\\21.10.0\\lib\\net461\\UiPath.Platform.dll"
       ],
-      "Path": "C:\\nuget\\uipath.platform\\21.4.0"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.platform\\21.10.0"
     },
     {
       "Package": {
         "Id": "UiPath.System.Activities",
-        "Version": "21.4.1"
+        "Version": "21.10.4"
       },
       "Assemblies": [
-        "C:\\nuget\\uipath.system.activities\\21.4.1\\lib\\net461\\UiPath.OrchestratorClient.dll",
-        "C:\\nuget\\uipath.system.activities\\21.4.1\\lib\\net461\\UiPath.System.Activities.Design.dll",
-        "C:\\nuget\\uipath.system.activities\\21.4.1\\lib\\net461\\UiPath.System.Activities.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.system.activities\\21.10.4\\lib\\net461\\UiPath.OrchestratorClient.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.system.activities\\21.10.4\\lib\\net461\\UiPath.System.Activities.Design.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.system.activities\\21.10.4\\lib\\net461\\UiPath.System.Activities.dll"
       ],
-      "Path": "C:\\nuget\\uipath.system.activities\\21.4.1"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.system.activities\\21.10.4"
     },
     {
       "Package": {
         "Id": "UiPath.Telemetry.Client",
-        "Version": "1.3.18"
+        "Version": "1.5.3"
       },
       "Assemblies": [
-        "C:\\nuget\\uipath.telemetry.client\\1.3.18\\lib\\net461\\TelemetryClient.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib\\net461\\TelemetryClient.dll"
       ],
-      "Path": "C:\\nuget\\uipath.telemetry.client\\1.3.18"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.telemetry.client\\1.5.3"
     },
     {
       "Package": {
         "Id": "UiPath.UIAutomation.Activities",
-        "Version": "21.4.4"
+        "Version": "21.10.5"
       },
       "Assemblies": [
-        "C:\\nuget\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.CV.Activities.Design.dll",
-        "C:\\nuget\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.CV.Activities.dll",
-        "C:\\nuget\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.CV.dll",
-        "C:\\nuget\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\nuget\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.UIAutomation.Activities.Package.dll",
-        "C:\\nuget\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.UIAutomationCore.dll",
-        "C:\\nuget\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.UIAutomationNext.Activities.Design.dll",
-        "C:\\nuget\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.UIAutomationNext.Activities.dll",
-        "C:\\nuget\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.UIAutomationNext.dll",
-        "C:\\nuget\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
-        "C:\\nuget\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.Wizards.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.5\\lib\\net461\\UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.5\\lib\\net461\\UiPath.CV.Activities.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.5\\lib\\net461\\UiPath.CV.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.5\\lib\\net461\\UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.5\\lib\\net461\\UiPath.UIAutomationCore.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.5\\lib\\net461\\UiPath.UIAutomationNext.Activities.Design.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.5\\lib\\net461\\UiPath.UIAutomationNext.Activities.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.5\\lib\\net461\\UiPath.UIAutomationNext.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.5\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.5\\lib\\net461\\UiPath.Wizards.dll"
       ],
-      "Path": "C:\\nuget\\uipath.uiautomation.activities\\21.4.4"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.5"
     },
     {
       "Package": {
         "Id": "UiPath.Vision",
-        "Version": "3.0.1"
+        "Version": "3.1.4"
       },
       "Assemblies": [
-        "C:\\nuget\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.AzureComputerVision.dll",
-        "C:\\nuget\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.Core.dll",
-        "C:\\nuget\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.GoogleCloud.dll",
-        "C:\\nuget\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.Microsoft.dll",
-        "C:\\nuget\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.Tesseract.dll",
-        "C:\\nuget\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.vision\\3.1.4\\lib\\net461\\UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.vision\\3.1.4\\lib\\net461\\UiPath.Vision.Core.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.vision\\3.1.4\\lib\\net461\\UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.vision\\3.1.4\\lib\\net461\\UiPath.Vision.Microsoft.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.vision\\3.1.4\\lib\\net461\\UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.vision\\3.1.4\\lib\\net461\\UiPath.Vision.dll"
       ],
-      "Path": "C:\\nuget\\uipath.vision\\3.0.1"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.vision\\3.1.4"
     },
     {
       "Package": {
@@ -1929,9 +2272,9 @@
         "Version": "1.0.0"
       },
       "Assemblies": [
-        "C:\\nuget\\uipath.wordstonumbers\\1.0.0\\lib\\netstandard2.0\\Numsense.dll"
+        "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.wordstonumbers\\1.0.0\\lib\\netstandard2.0\\Numsense.dll"
       ],
-      "Path": "C:\\nuget\\uipath.wordstonumbers\\1.0.0"
+      "Path": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\uipath.wordstonumbers\\1.0.0"
     }
   ]
 }

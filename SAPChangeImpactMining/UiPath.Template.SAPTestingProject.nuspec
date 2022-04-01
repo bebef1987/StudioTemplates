@@ -2,14 +2,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
   <metadata>
     <id>UiPath.Template.SAPTestingProject</id>
-    <version>21.10.0</version>
+    <version>22.4.0</version>
     <title>SAP Testing Project</title>
     <authors>UiPath</authors>
     <owners>UiPath</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <icon>images\icon.png</icon>
     <projectUrl>http://uipath.com/</projectUrl>
-    <description>Create a project for your SAP test automation which includes SAP Change Impact Mining</description>
+    <description>Create a project for your SAP test automation which includes SAP Change Impact Mining. <![CDATA[IMPORTANT: This package version requires Studio v2021.10.0 or above.]]></description>
     <summary>SAP Testing Project</summary>
     <copyright>UiPath</copyright>
     <language>en-US</language>
