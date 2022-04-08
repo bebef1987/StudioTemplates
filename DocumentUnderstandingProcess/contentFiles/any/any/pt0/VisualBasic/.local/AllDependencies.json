@@ -10586,15 +10586,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lavinia.nastase\\.nuget\\packages\\": {}
+    "C:\\Users\\bogdan.siritanu\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Document Understanding Process",
       "projectName": "Document Understanding Process",
-      "projectPath": "C:\\Repos\\StudioTemplates\\DocumentUnderstandingProcess\\contentFiles\\any\\any\\pt0\\VisualBasic\\.local",
-      "packagesPath": "C:\\Users\\lavinia.nastase\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\StudioTemplates\\DocumentUnderstandingProcess\\contentFiles\\any\\any\\pt0\\VisualBasic\\.local"
+      "projectPath": "C:\\UiPath Projects\\UiPath Internal Projects\\DU Process\\StudioTemplates\\DocumentUnderstandingProcess\\contentFiles\\any\\any\\pt0\\VisualBasic\\.local",
+      "packagesPath": "C:\\Users\\bogdan.siritanu\\.nuget\\packages\\",
+      "outputPath": "C:\\UiPath Projects\\UiPath Internal Projects\\DU Process\\StudioTemplates\\DocumentUnderstandingProcess\\contentFiles\\any\\any\\pt0\\VisualBasic\\.local"
     },
     "frameworks": {
       "net461": {
@@ -10625,7 +10625,7 @@
             "version": "[21.10.5, 21.10.5]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\bogdan.siritanu\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {

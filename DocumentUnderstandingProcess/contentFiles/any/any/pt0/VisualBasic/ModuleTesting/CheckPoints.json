@@ -1,8 +1,11 @@
 {
+	"10_ReadConfig&InitializeProcess": true,
 	"20_Digitize": true,
 	"30_Classify": true,
+	"35_ClassificationBusinessRuleValidation": true,
 	"40_TrainClassifiers": true,
 	"50_Extract": true,
+	"55_ExtractionBusinessRuleValidation": true,
 	"60_TrainExtractors": true,
 	"70_Export": true
 }
