@@ -61,5 +61,5 @@
   "isTemplate": true,
   "templateProjectData": {},
   "publishData": {},
-  "targetFramework": "Windows"
+  "targetFramework": "Portable"
 }

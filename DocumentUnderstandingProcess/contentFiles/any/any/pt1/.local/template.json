@@ -44,5 +44,5 @@
   "AutoDispose": false,
   "FileInfoCollection": [],
   "ExpressionLanguage": "CSharp",
-  "TargetFramework": "Windows"
+  "TargetFramework": "Portable"
 }

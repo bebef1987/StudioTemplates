@@ -44,5 +44,5 @@
   "AutoDispose": false,
   "FileInfoCollection": [],
   "ExpressionLanguage": "VisualBasic",
-  "TargetFramework": "Windows"
+  "TargetFramework": "Portable"
 }
