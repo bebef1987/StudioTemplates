@@ -19,7 +19,7 @@ steps:
   inputs:
     testTarget: 'TestProject'
     orchestratorConnection: 'BebeOr3'
-    testProjectPath: '$(Build.SourcesDirectory)\DocumentUnderstandingProcess\contentFiles\any\any\pt0\VisualBasic'
+    testProjectPath: '$(Build.SourcesDirectory)\DocumentUnderstandingProcess\contentFiles\any\any\pt0\VisualBasic\'
     folderName: 'Sales'
     traceLevel: 'Verbose'
     attachRobotLogs: true
