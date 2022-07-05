@@ -21463,15 +21463,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\teodora.patrascu\\.nuget\\packages\\": {}
+    "C:\\Users\\florin.strugariu\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Document Understanding Process",
       "projectName": "Document Understanding Process",
-      "projectPath": "C:\\Users\\teodora.patrascu\\PycharmProjects\\Unit_Module_Testing\\DocumentUnderstandingProcess\\contentFiles\\any\\any\\pt0\\VisualBasic\\.local",
-      "packagesPath": "C:\\Users\\teodora.patrascu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\teodora.patrascu\\PycharmProjects\\Unit_Module_Testing\\DocumentUnderstandingProcess\\contentFiles\\any\\any\\pt0\\VisualBasic\\.local"
+      "projectPath": "C:\\Users\\florin.strugariu\\OneDrive - UiPath\\Documents\\UiPath\\StudioTemplates\\DocumentUnderstandingProcess\\contentFiles\\any\\any\\pt0\\VisualBasic\\.local",
+      "packagesPath": "C:\\Users\\florin.strugariu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\florin.strugariu\\OneDrive - UiPath\\Documents\\UiPath\\StudioTemplates\\DocumentUnderstandingProcess\\contentFiles\\any\\any\\pt0\\VisualBasic\\.local",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ]
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -21512,7 +21516,7 @@
             "version": "[22.4.5, 22.4.5]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\teodora.patrascu\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
